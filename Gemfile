@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'activerecord'
+gem 'pg'
+
 gem 'rspec'
-gem 'rack-test'
-gem 'sinatra'
+gem 'faker'
