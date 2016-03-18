@@ -5,3 +5,5 @@ gem 'pg'
 
 gem 'rspec'
 gem 'faker'
+
+gem 'rake'
